@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Daksh-jain23
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning Unity 
-- 📫 How to reach me dakshjain2317@gmail.com
+- 📫 How to reach me dakshjain2316@gmail.com
 - 😄 Pronouns: HE/ HIM
 
 <!---
